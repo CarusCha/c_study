@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
-
+//
 int main(void)
 {
     // 이름 입력받기
